@@ -1,0 +1,23 @@
+{
+  "name": "js-nomic-game",
+  "version": "1.0.0",
+  "description": "Nomic Game client in Javascript",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nklein/js-nomic-game-test.git"
+  },
+  "keywords": [
+    "nomic",
+    "game"
+  ],
+  "author": "Patrick Stein <pat@nklein.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/nklein/js-nomic-game-test/issues"
+  },
+  "homepage": "https://github.com/nklein/js-nomic-game-test#readme"
+}
